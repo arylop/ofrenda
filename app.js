@@ -3,7 +3,7 @@ const fotos = [
     { src: "img/mama coco.jpg", descripcion: "Un recuerdo que vive en el corazón, nace en el corazón" },
     { src: "img/camacho.jpg", descripcion: "Momentos que nunca olvidaremos" },
     { src: "img/jenny.jpg", descripcion: "Su cariño nos acompaña" },
-    { src: "img/adanluna.jpg", descripcion: "Siempre presente en nuestra memoria" }
+    { src: "img/adanluna.jpgimg/adanluna.jpg", descripcion: "Siempre presente en nuestra memoria" }
 ];
 
 // --- Variables y elementos del DOM ---
